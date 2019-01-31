@@ -1,0 +1,3 @@
+http://100count.net/faucet/network/mine/pot/faucet.php?address=PRWryrRfz14xoyzgDWvahwdjwD7bNUhwFD&currency=POT&key=e14350027f21be45530785e5be46b49dab7e96be&t=1549040615
+faucet.dutchycorp.space/auto1min/faucet.php?address=PRWryrRfz14xoyzgDWvahwdjwD7bNUhwFD&currency=POT&action=&miner=on&key=790d4f44f362832f65b7b992ded11431
+faucet.dutchycorp.space/auto2min/faucet.php?address=PRWryrRfz14xoyzgDWvahwdjwD7bNUhwFD&currency=POT&action=&miner=on&key=790d4f44f362832f65b7b992ded11431
